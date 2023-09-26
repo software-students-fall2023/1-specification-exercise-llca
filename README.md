@@ -8,9 +8,9 @@ Lara Kim: https://github.com/larahynkim <br>
 Kieren Gill: https://github.com/kierengill <br>
 Andrew Huang: https://github.com/andrewhuanggg <br>
 Chang Liu: https://github.com/cl5706 <br>
- 
+
 ## Ideation 
-We plan to build a friendly and engaging mobile application designed for individuals determined to conquer their smoking or vaping habits. Adorned with an aesthetic of endearing icons and a user-friendly interface, this app will be visually pleasing and a supportive companion to those on their journey to a healthier lifestyle. At its core, the app will feature a real-time counter that celebrates the number of nicotine-free days, reinforcing the user's commitment and progress. As milestones are reached, users will earn in-app coins, turning their efforts into tangible rewards. Additionally, for those who need a more analytical approach, the app will offer a comprehensive consumption history tracker, allowing users to reflect on their consumption patterns and celebrate their achievements. Integrated motivational quotes, community support forums, and expert tips will further enhance the user experience, making this app not just a tool, but a heartwarming partner in achieving a nicotine-free life.
+We plan to build a friendly and engaging mobile application designed for individuals determined to conquer their smoking or vaping habits. Adorned with an aesthetic of endearing icons and a user-friendly interface, this app will be visually pleasing and a supportive companion to those on their journey to a healthier lifestyle. At its core, the app will feature a real-time counter that celebrates the number of nicotine-free days, reinforcing the user's commitment and progress. As milestones are reached, users will earn in-app coins, turning their efforts into tangible rewards. Additionally, for those who need a more analytical approach, the app will offer a comprehensive consumption history tracker, allowing users to reflect on their consumption patterns and celebrate their achievements. Integrated motivational quotes, community support forums, and expert tips will further enhance the user experience, making this app not just a tool, but a heartwarming partner in achieving a nicotine-free life. 
 
 ## Stakeholders
 
