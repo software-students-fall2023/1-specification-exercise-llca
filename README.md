@@ -38,7 +38,17 @@ A digital companion empowering individuals on their journey to a healthier, nico
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+* As a user, I want to earn in-app coins for reaching milestones so that I can be rewarded for my efforts and stay engaged with the app
+* As a user currently trying to quit nicotine, I want to have access to expert tips and advice on quitting smoking/vaping so that I can be better informed and equipped to handle the challenges of quitting.
+* As a user with specific goals, I want to customize my milestones so that I can work towards personal targets that are meaningful and motivating to me.
+* As a person trying to quit smoking/vaping, I want to see my number of nicotine-free days so that I can feel a sense of achievement and stay motivated.
+* As a user looking for support, I want to participate in community support forums so that I can share my experiences, gain insights from others, and not feel alone in my journey.
+* As a user in need of motivation, I want to receive daily motivational quotes so that I can stay inspired and committed to quitting nicotine.
+* As a user who is proud of my progress, I want to be able to share my milestones and achievements on social media so that I can inspire others to quit and receive support from friends and family.
+* As a data-oriented individual, I want to access a comprehensive consumption history tracker so that I can reflect on my consumption patterns and adjust my habits accordingly.
+* As a user, I want to customize my real-time counter with different colors and themes so that it is more appealing for my personal aesthetic. 
+* As a user experiencing cravings, I want to access distraction tools within the app so that I can overcome the urges to smoke or vape. 
+
 
 ## Activity Diagrams
 
