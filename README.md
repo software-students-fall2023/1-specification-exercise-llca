@@ -4,17 +4,17 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Lara Kim: https://github.com/larahynkim 
-Kieren Gill: https://github.com/kierengill 
-Andrew Huang: https://github.com/andrewhuanggg 
-Chang Liu: https://github.com/cl5706
+Lara Kim: https://github.com/larahynkim <br>
+Kieren Gill: https://github.com/kierengill <br>
+Andrew Huang: https://github.com/andrewhuanggg <br>
+Chang Liu: https://github.com/cl5706 <br>
  
 ## Ideation 
 We plan to build a friendly and engaging mobile application designed for individuals determined to conquer their smoking or vaping habits. Adorned with an aesthetic of endearing icons and a user-friendly interface, this app will be visually pleasing and a supportive companion to those on their journey to a healthier lifestyle. At its core, the app will feature a real-time counter that celebrates the number of nicotine-free days, reinforcing the user's commitment and progress. As milestones are reached, users will earn in-app coins, turning their efforts into tangible rewards. Additionally, for those who need a more analytical approach, the app will offer a comprehensive consumption history tracker, allowing users to reflect on their consumption patterns and celebrate their achievements. Integrated motivational quotes, community support forums, and expert tips will further enhance the user experience, making this app not just a tool, but a heartwarming partner in achieving a nicotine-free life.
 
 ## Stakeholders
 
-###Stakeholder #1: Philip Choi 
+### Stakeholder #1: Philip Choi 
 Philip Choi is a 22-year-old recent graduate from New York University who has been grappling with nicotine addiction ever since he was a high school student. Although he started smoking out of curiosity and a desire to fit in with his friends, he has now grown a dependency to nicotine. He relies on nicotine in many ways, such as to calm his nerves or satisfy his cravings. His primary goal is to overcome this addiction and lead a healthier life.   
 ### Goals/Needs: 
 1. Overcome a nicotine addiction and lead an overall healthier lifestyle, both mentally and physically. 
@@ -24,7 +24,7 @@ Philip Choi is a 22-year-old recent graduate from New York University who has be
 3. Receive recognition and rewards for milestones achieved, as well as motivation during the quitting process. 
 4. Gain access to a supportive community or network that understands his struggles. 
 
-###Problems/Frustrations
+### Problems/Frustrations:
 1. A severe dependency on nicotine, relying on it as a solution or problem-solver to anxiety, cravings, boredom, and more. 
 2. Experiencing frequent temptations, especially in social settings where peers might smoke or vape. 
 3. Lack of a systematic way to track his progress, resulting in neglect or oblivion, as well as relapse. 
