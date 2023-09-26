@@ -14,8 +14,8 @@ We plan to build a friendly and engaging mobile application designed for individ
 
 ## Stakeholders
 
-### Stakeholder #1: Philip Choi 
-Philip Choi is a 22-year-old recent graduate from New York University who has been grappling with nicotine addiction ever since he was a high school student. Although he started smoking out of curiosity and a desire to fit in with his friends, he has now grown a dependency to nicotine. He relies on nicotine in many ways, such as to calm his nerves or satisfy his cravings. His primary goal is to overcome this addiction and lead a healthier life.   
+### Stakeholder #1: Philip Choi  
+<br>Philip Choi is a 22-year-old recent graduate from New York University who has been grappling with nicotine addiction ever since he was a high school student. Although he started smoking out of curiosity and a desire to fit in with his friends, he has now grown a dependency to nicotine. He relies on nicotine in many ways, such as to calm his nerves or satisfy his cravings. His primary goal is to overcome this addiction and lead a healthier life.   
 ### Goals/Needs: 
 1. Overcome a nicotine addiction and lead an overall healthier lifestyle, both mentally and physically. 
 2. Understand an reflect on his nicotine consumption patterns and history. 
