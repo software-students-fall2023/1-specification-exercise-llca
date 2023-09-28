@@ -49,10 +49,13 @@ A digital companion empowering individuals on their journey to a healthier, nico
 * As a user, I want to customize my real-time counter with different colors and themes so that it is more appealing for my personal aesthetic. 
 * As a user experiencing cravings, I want to access distraction tools within the app so that I can overcome the urges to smoke or vape. 
 
+## Wireframe Diagrams
+
+![Alt text](777daf8f0ca089d4bbb0ead3f75d8e3.png)
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![Alt text](6ef715e5946539b1d872bf603db8290.png)
 
 ## Clickable Prototype
 
