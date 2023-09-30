@@ -51,11 +51,11 @@ A digital companion empowering individuals on their journey to a healthier, nico
 
 ## Wireframe Diagrams
 
-![Alt text](777daf8f0ca089d4bbb0ead3f75d8e3.png)
+![Alt text](7196f91ac8def4884540047ae60e7e2.png)
 
 ## Activity Diagrams
 
-![Alt text](6ef715e5946539b1d872bf603db8290.png)
+![Alt text](0c754e65a3616fd235e70ead00140a2.png)
 
 ## Clickable Prototype
 
