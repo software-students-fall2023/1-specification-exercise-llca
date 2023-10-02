@@ -17,9 +17,9 @@ We plan to build a friendly and engaging mobile application designed for individ
 Philip Choi is a 22-year-old recent graduate from New York University who has been grappling with nicotine addiction ever since he was a high school student. Although he started smoking out of curiosity and a desire to fit in with his friends, he has now grown a dependency to nicotine. He relies on nicotine in many ways, such as to calm his nerves or satisfy his cravings. His primary goal is to overcome this addiction and lead a healthier life.   
 ### Goals/Needs: 
 1. Overcome a nicotine addiction and lead an overall healthier lifestyle, both mentally and physically. 
-2. Understand an reflect on his nicotine consumption patterns and history. 
-	i. Understand what drives him to indulge in nicotine, and uncover any noticable patterns. 
-	ii. Keep track of these patterns in order to address them and prevent neglect. 
+2. Understand an reflect on his nicotine consumption patterns and history. <br>
+	i. Understand what drives him to indulge in nicotine, and uncover any noticable patterns. <br>
+	ii. Keep track of these patterns in order to address them and prevent neglect. <br>
 3. Receive recognition and rewards for milestones achieved, as well as motivation during the quitting process. 
 4. Gain access to a supportive community or network that understands his struggles. 
 
@@ -38,16 +38,17 @@ A digital companion empowering individuals on their journey to a healthier, nico
 
 ## User Requirements
 
-* As a user, I want to earn in-app coins for reaching milestones so that I can be rewarded for my efforts and stay engaged with the app
-* As a user currently trying to quit nicotine, I want to have access to expert tips and advice on quitting smoking/vaping so that I can be better informed and equipped to handle the challenges of quitting.
-* As a user with specific goals, I want to customize my milestones so that I can work towards personal targets that are meaningful and motivating to me.
-* As a person trying to quit smoking/vaping, I want to see my number of nicotine-free days so that I can feel a sense of achievement and stay motivated.
-* As a user looking for support, I want to participate in community support forums so that I can share my experiences, gain insights from others, and not feel alone in my journey.
-* As a user in need of motivation, I want to receive daily motivational quotes so that I can stay inspired and committed to quitting nicotine.
-* As a user who is proud of my progress, I want to be able to share my milestones and achievements on social media so that I can inspire others to quit and receive support from friends and family.
+* As an easily demotivated nicotine-dependent user, I want to earn in-app coins for reaching milestones so that I can stay motivated, be rewarded for my efforts, and stay engaged with the app. 
+* As a nicotine-dependent user currently trying to quit nicotine, I want to have access to expert tips and advice on quitting smoking/vaping so that I can be better informed and equipped to handle the challenges of quitting.
+* As a struggling individual with specific goals to quit my addiction, I want to be able to customize my milestones so that I can work towards personal targets that are meaningful and motivating to me.
+* As a committed user trying to quit smoking/vaping, I want to see my number of nicotine-free days so that I can feel a sense of achievement and stay motivated.
+* As a nicotine-dependent user looking for support, I want to participate in community support forums so that I can share my experiences, gain insights from others, and not feel alone in my journey.
+* As a nicotine-dependent user in need of motivation, I want to receive daily motivational quotes so that I can stay inspired and committed to quitting nicotine.
+* As a perservering user who is proud of my progress, I want to be able to share my milestones and achievements on social media so that I can inspire others to quit and receive support from friends and family.
 * As a data-oriented individual, I want to access a comprehensive consumption history tracker so that I can reflect on my consumption patterns and adjust my habits accordingly.
 * As a user, I want to customize my real-time counter with different colors and themes so that it is more appealing for my personal aesthetic. 
 * As a user experiencing cravings, I want to access distraction tools within the app so that I can overcome the urges to smoke or vape. 
+* As a visual learner, I want to view my progress in the form of charts and graphs so that I can better understand my journey and progress over time. 
 
 ## Wireframe Diagrams
 
