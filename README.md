@@ -50,8 +50,11 @@ A digital companion empowering individuals on their journey to a healthier, nico
 * As a user experiencing cravings, I want to access distraction tools within the app so that I can overcome the urges to smoke or vape. 
 * As a visual learner, I want to view my progress in the form of charts and graphs so that I can better understand my journey and progress over time. 
 
-## Activity Diagrams
+## UML Activity Diagrams
+### User Story Activity Diagrams 
 ![Alt text](UMLactivitydiagrams.png)
+
+## General Activity Diagram 
 ![Alt text](0c754e65a3616fd235e70ead00140a2.png)
 
 ## Wireframe Diagrams
