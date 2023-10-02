@@ -50,14 +50,14 @@ A digital companion empowering individuals on their journey to a healthier, nico
 * As a user experiencing cravings, I want to access distraction tools within the app so that I can overcome the urges to smoke or vape. 
 * As a visual learner, I want to view my progress in the form of charts and graphs so that I can better understand my journey and progress over time. 
 
-## Wireframe Diagrams
-
-![Alt text](7196f91ac8def4884540047ae60e7e2.png)
-
 ## Activity Diagrams
-
+![Alt text](UMLactivitydiagram1.png)
+![Alt text](UMLactivitydiagram2.png)
 ![Alt text](0c754e65a3616fd235e70ead00140a2.png)
 
-## Clickable Prototype
+## Wireframe Diagrams
+![Alt text](7196f91ac8def4884540047ae60e7e2.png)
 
+
+## Clickable Prototype
 [Clickable Prototype](https://www.figma.com/proto/8OcCgQFUwQruSJyB0u7IJx/SWE-Project-1?page-id=0%3A1&type=design&node-id=1-2&viewport=349%2C234%2C0.31&t=hFNplcxoskbgAaYB-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design)
