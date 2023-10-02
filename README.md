@@ -54,7 +54,7 @@ A digital companion empowering individuals on their journey to a healthier, nico
 ### User Story Activity Diagrams 
 ![Alt text](UMLactivitydiagrams.png)
 
-## General Activity Diagram 
+### General Activity Diagram 
 ![Alt text](0c754e65a3616fd235e70ead00140a2.png)
 
 ## Wireframe Diagrams
