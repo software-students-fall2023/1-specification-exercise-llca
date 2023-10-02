@@ -41,7 +41,7 @@ A digital companion empowering individuals on their journey to a healthier, nico
 * As an easily demotivated nicotine-dependent user, I want to earn in-app coins for reaching milestones so that I can stay motivated, be rewarded for my efforts, and stay engaged with the app. 
 * As a nicotine-dependent user currently trying to quit nicotine, I want to have access to expert tips and advice on quitting smoking/vaping so that I can be better informed and equipped to handle the challenges of quitting.
 * As a struggling individual with specific goals to quit my addiction, I want to be able to customize my milestones so that I can work towards personal targets that are meaningful and motivating to me.
-* As a committed user trying to quit smoking/vaping, I want to see my number of nicotine-free days so that I can feel a sense of achievement and stay motivated.
+* As a committed user trying to quit smoking/vaping, I want to track and see my number of nicotine-free days so that I can feel a sense of achievement and stay motivated.
 * As a nicotine-dependent user looking for support, I want to participate in community support forums so that I can share my experiences, gain insights from others, and not feel alone in my journey.
 * As a nicotine-dependent user in need of motivation, I want to receive daily motivational quotes so that I can stay inspired and committed to quitting nicotine.
 * As a perservering user who is proud of my progress, I want to be able to share my milestones and achievements on social media so that I can inspire others to quit and receive support from friends and family.
