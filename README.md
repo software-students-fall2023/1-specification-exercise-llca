@@ -59,4 +59,4 @@ A digital companion empowering individuals on their journey to a healthier, nico
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Clickable Prototype](https://www.figma.com/proto/8OcCgQFUwQruSJyB0u7IJx/SWE-Project-1?page-id=0%3A1&type=design&node-id=1-2&viewport=349%2C234%2C0.31&t=hFNplcxoskbgAaYB-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design)
