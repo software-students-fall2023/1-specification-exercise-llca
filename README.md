@@ -51,8 +51,7 @@ A digital companion empowering individuals on their journey to a healthier, nico
 * As a visual learner, I want to view my progress in the form of charts and graphs so that I can better understand my journey and progress over time. 
 
 ## Activity Diagrams
-![Alt text](UMLactivitydiagram1.png)
-![Alt text](UMLactivitydiagram2.png)
+![Alt text](UMLactivitydiagrams.png)
 ![Alt text](0c754e65a3616fd235e70ead00140a2.png)
 
 ## Wireframe Diagrams
