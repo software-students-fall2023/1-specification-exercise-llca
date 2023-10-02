@@ -44,7 +44,7 @@ A digital companion empowering individuals on their journey to a healthier, nico
 * As a committed user trying to quit smoking/vaping, I want to track and see my number of nicotine-free days so that I can feel a sense of achievement and stay motivated.
 * As a nicotine-dependent user looking for support, I want to participate in community support forums so that I can share my experiences, gain insights from others, and not feel alone in my journey.
 * As a nicotine-dependent user in need of motivation, I want to receive daily motivational quotes so that I can stay inspired and committed to quitting nicotine.
-* As a perservering user who is proud of my progress, I want to be able to share my milestones and achievements on social media so that I can inspire others to quit and receive support from friends and family.
+* As a perservering user who is proud of my progress, I want to be able to share my milestones and achievements to a community so that I can inspire others to quit and receive support from friends and family.
 * As a data-oriented individual, I want to access a comprehensive consumption history tracker so that I can reflect on my consumption patterns and adjust my habits accordingly.
 * As a user, I want to customize my real-time counter with different colors and themes so that it is more appealing for my personal aesthetic. 
 * As a user experiencing cravings, I want to access distraction tools within the app so that I can overcome the urges to smoke or vape. 
